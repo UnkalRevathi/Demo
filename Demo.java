@@ -9,7 +9,9 @@ public class Demo {
         int d,e;
         d=a*b;
         e=a/b;
+      int   f=a%b;
         System.out.println("multiplication is: "+d);
         System.out.println("division is: "+e);
+        System.out.println("modulus is "+f);
      }
 }
